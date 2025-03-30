@@ -6,5 +6,4 @@
 2. run  `python src/main.py` to start the program
 
 ### Notice
-sesds
 1. 因為有寫死的路徑，Dataset的Q2_Image與Q5_image還部份保留。
